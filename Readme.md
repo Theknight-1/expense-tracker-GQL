@@ -1,0 +1,1 @@
+Graphql web application for tracking for monthly expencess.
