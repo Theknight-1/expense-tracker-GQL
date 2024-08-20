@@ -13,6 +13,7 @@ const transactionTypeDef = `#graphql
     type Query {
         transactions: [Transaction!]
         transaction(transactionId:ID): Transaction
+        #  Todo => Add category statistics query
     }
 
     type Mutation {
